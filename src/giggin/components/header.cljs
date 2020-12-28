@@ -3,4 +3,4 @@
 (defn header
   []
   [:header
-    [:img.logo {:src "img/giggin-logo.svg" :alt "Giggin logo!"}]])
+    [:img.logo {:src "public/img/giggin-logo.svg" :alt "Giggin logo!"}]])

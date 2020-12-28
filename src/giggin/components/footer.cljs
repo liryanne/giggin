@@ -3,4 +3,4 @@
 (defn footer
   []
   [:footer
-    [:img {:src "img/giggin-icon.png" :alt "Giggin logo"}]])
+    [:img {:src "public/img/giggin-icon.png" :alt "Giggin logo"}]])
